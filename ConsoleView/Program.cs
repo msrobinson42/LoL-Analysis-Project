@@ -12,7 +12,7 @@ namespace ConsoleView
     {
         static async Task Main(string[] args)
         {
-            var apiKey = "RGAPI-643dd0d7-d1fc-48a0-8f2d-8f69073bbcca";
+            var apiKey = "XXXXX-XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX";
             var uri = new Uri("https://na1.api.riotgames.com");
 
 
