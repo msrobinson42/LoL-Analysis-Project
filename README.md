@@ -11,6 +11,7 @@ A class library dedicated to receiving and deserializing the json into their app
 The UriFactory includes low level string manipulation to handle the segments and query parameters of any particular endpoint.
 
 Riot Games offers endpoints that are specific to stats per game (player kills/deaths, positional data, item purchases, etc).
+
 DataDragon is an open source endpoint that includes static data for the game (champion stats, monster stats, ability damage values, mana costs, etc). DataDragonClient always returns most up to date data from this endpoint.
 
 ## ContractsLib
