@@ -68,10 +68,10 @@ Composition root:
 
 ## Finally
 
-Still some work to go. Clients are working appropriately, and I'm happy with them at my current knowledge. I have a distinct lack of knowledge about asynchronous programming, so I am sure there are improvements to be made within the architecture of making the endpoint calls. 
+Although there is still work to go, I'm happy that the client classes are working effectively. I have a distinct lack of knowledge about asynchronous programming however, so I'm sure there are improvements to be made with the implementation.
 
 I need to implement more calculation-based models, so I can build up algorithms that return intelligent/conditional information based the input, rather than just displaying the given properties. 
 
-Once I have a minimally viable product in terms of models, I need to create a more sophisticated view. I would probably want to create my own web API to call, so that I could access the information from a website, mobile app, or desktop app. I know that this is possible, and preferred practice, but I feel I need to gain a bit more knowledge before I could implement something like that in a professional or competent manner.
+Once I have a minimally viable product, I need to create a more sophisticated view. I would probably want to create my own web API to call so that I could access the information from a website, mobile app, or desktop app. I know that this is possible and preferred practice, but I feel I'm currently lacking the knowledge to implement something like that in a way that would be up to my standards.
 
 **Zach Robinson**
