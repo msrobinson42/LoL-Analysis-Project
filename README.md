@@ -12,7 +12,8 @@ The UriFactory includes low level string manipulation to handle the segments and
 
 Riot Games offers endpoints that are specific to stats per game (player kills/deaths, positional data, item purchases, etc).
 
-DataDragon is an open source endpoint that includes static data for the game (champion stats, monster stats, ability damage values, mana costs, etc). DataDragonClient always returns most up to date data from this endpoint.
+DataDragon is an open source endpoint that includes static data for the game (champion stats, monster stats, ability damage values, mana costs, etc). 
+My implementation will always return the most recent version from this endpoint.
 
 ## ContractsLib
 
