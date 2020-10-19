@@ -58,19 +58,13 @@ Largely in development. Used to display information in an appropriate way to the
 
 ## ConsoleView
 
-Composition root.
-
-Set up URI and personal api key to access the endpoints.
-
-Create httpclient and set to accept json.
-
-Get user input to request data by summoner name (player name).
-
-Generate full URI and asynchronously call endpoints for all data. Only await data needed to go to next step.
-
-Perform same API call on static DataDragon endpoint. This could likely be easily called and maintained in a database using Entity Framework.
-
-Populates a quick view model test of some information based on number of matches requested by user input.
+Composition root:
+1. Set up URI and personal api key to access the endpoints.
+1. Create httpclient and set to accept json.
+1. Get user input to request data by summoner name (player name).
+1. Generate full URI and asynchronously call endpoints for all data. Only await data needed to go to next step.
+1. Perform same API call on static DataDragon endpoint. This could likely be easily called and maintained in a database using Entity Framework.
+1. Populates a quick view model test of some information based on number of matches requested by user input.
 
 ## Finally
 
